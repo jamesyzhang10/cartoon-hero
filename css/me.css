@@ -15,4 +15,30 @@ header{
 body{
 	color: white;
 	background-color: black;
+	margin: 0;
 }
+
+.harry{
+	height: 300px;
+	width: 240px;
+	float: left;
+	padding: 32px;
+	border-radius: 120px;
+}
+
+.universal{
+	height: 300px;
+	width: 400px;
+	float: center;
+	padding: 32px;
+	border-radius: 200px;
+}
+
+.celly{
+	float: right;
+	padding: 32px;
+	width: 421px;
+	height: 300px;
+	border-radius: 210.5px;
+}
+
