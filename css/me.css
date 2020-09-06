@@ -1,7 +1,8 @@
 header h1{
 	display: inline;
 	color: white;
-	font-size: 25px;
+	font-size: 15px;
+	text-align: center;
 }
 
 .space{
@@ -20,28 +21,45 @@ body{
 
 .harry{
 	height: 300px;
-	border-radius: 120px;
 	width: 240px;
-	float: left;
-	padding: 32px;
-	
+	float: center;
+	padding: 10px 30px;
+	border-radius: 175px;
 }
 
 .universal{
 	height: 300px;
-	border-radius: 200px;
+	border-radius: 300px;
 	width: 400px;
 	float: center;
-	padding: 32px;
+	padding: 10px 30px;
 	
 }
 
 .celly{
-	float: right;
-	padding: 32px;
+	float: center;
+	padding: 10px 30px;
 	border-radius: 210.5px;
 	width: 421px;
 	height: 300px;
-	
 }
 
+.center{
+	text-align: center;
+}
+
+.caption{
+	display: inline;
+	padding: 0px 55px;
+}
+
+.caption.space{
+	padding: 0px 15px;
+}
+
+.gps{
+	width: 700px;
+	height: 564px;
+	align-self: center;
+	border-radius: 282px
+}
